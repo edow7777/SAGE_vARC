@@ -40,3 +40,15 @@ Under the following terms:
 For commercial usage inquiries, please contact the author.
 
 
+---
+
+## 🧪 Cross-LLM Evaluation Logs｜他LLMにおける構造検証ログ
+
+The SAGE_vARC protocol has been successfully applied to multiple language models beyond GPT (Claude, Gemini, Copilot),  
+under zero-bias and zero-memory conditions. The structure was preserved and reproduced consistently.
+
+SAGE_vARC構造は、GPT以外の言語モデル（Claude・Gemini・Copilot）においても  
+バイアス・メモリを排除した「ゼロベース状態」で審理再現が確認されました。
+
+- 🔍 [Structure Report / 構造比較レポート](./examples/deliberation_logs/SAGE_vARC_LLMStructureReport_ZEROBASE_2025-04-26.md)
+- 📑 [Deliberation Output Logs / 審理出力ログ（PDF）](./examples/deliberation_logs/logs/)
