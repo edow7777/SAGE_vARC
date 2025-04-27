@@ -1,0 +1,41 @@
+# Commercial License Contact Information for ULI-AIs_BalanceCore
+
+This repository (ULI-AIs_BalanceCore) is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Commercial use of this work, including but not limited to integration into proprietary systems, commercial product development, or paid service offerings, requires a separate commercial license agreement.
+
+If you wish to obtain a commercial license, please contact:
+
+▶︎ Contact: [edow7777@gmail.com]
+▶︎ Subject Line: "Commercial License Inquiry - BalanceCore"
+
+Please include the following information in your inquiry:
+- Intended use case (overview)
+- Company/Organization name
+- Contact person name and title
+- Expected scale of usage
+- Any specific adaptation plans (if applicable)
+
+The author will review your request and respond individually.
+
+---
+
+## 日本語版
+
+本リポジトリ（ULI-AIs_BalanceCore）は、「クリエイティブ・コモンズ 表示-非営利-継承 4.0 国際ライセンス（CC BY-NC-SA 4.0）」の下で配布されています。
+
+商用利用（例：プロプライエタリシステムへの組込、商用プロダクト開発、有償サービス提供等）を希望する場合、別途商用ライセンス契約が必要です。
+
+商用ライセンス取得をご希望の場合は、下記までご連絡ください。
+
+▶︎ 連絡先：[edow7777@gmail.com]  
+▶︎ 件名：「BalanceCore商用ライセンス申請」
+
+お問い合わせの際は、以下の情報を添えてください。
+- 利用予定の概要
+- 会社・団体名
+- 担当者氏名・役職
+- 想定利用規模
+- 特定の適応計画がある場合はその概要
+
+著者にて内容を確認の上、個別にご連絡いたします。
