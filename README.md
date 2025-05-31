@@ -17,6 +17,14 @@ Cross-Chamber Judgment: Each proposal is never self-judged, but always decided b
 
 Full Transparency: All deliberation branches, rejections, and decision criteria are visible to the end user.
 
+RGBL as Explicit Reasoning Vectors:
+In SAGE_vARC, each stance and chamber is assigned a unique set of RGBL values, numerically encoding its logical direction and expressive style.
+By weighting these vectors, the system can explicitly steer the reasoning process—making every output not only traceable, but also custom-tailored to a desired orientation (e.g., more radical, more empirical, more structural, etc.).
+This “vectorized control” is central to SAGE’s ability to generate diverse, multi-perspective deliberation, and to audit the underlying logic of each output.
+
+Example: Setting R=1.0, G=0.3, B=0.1 for the Fool stance directs the system toward radical, creative proposals;
+Justice at R=0.1, G=0.9, B=0.9 weights the output toward empirically validated, structurally rigorous arguments.
+
 RGBL Axes:
 
 R: Radicality (degree of hypothesis leap)
@@ -76,6 +84,15 @@ SAGE_vARCは、AIおよび人間の意思決定のための多層熟議プロト
 クロスジャッジ型判定: いかなる案も“自己判定”されず、必ず一段上の議長によって可否決定
 
 完全可視化: 全ての分岐・否決・判定理由をユーザーに開示
+
+RGBLによる「思考ベクトル」制御:
+SAGE_vARCでは、各スタンス・各審理段階に固有のRGBL数値ベクトルを割り当て、
+それぞれの論理的方向性や表現傾向を数値で定義します。
+このベクトル（ウェイト）を調整することで、「出力される議論の指向性（例：より飛躍的、より構造重視、より実証的など）」を明示的に誘導・制御することが可能です。
+こうした「数値化された思考ベクトル管理」はSAGEの最大の特徴であり、多視点・多段階の熟議生成、および出力論理の監査性を強化しています。
+
+例：「愚者」構えでR=1.0, G=0.3, B=0.1なら、極めて大胆な仮説提案が主眼となり、
+「正義」構えでR=0.1, G=0.9, B=0.9なら、実証性・構造妥当性に最大限寄せた出力が得られる
 
 RGBL軸:
 
