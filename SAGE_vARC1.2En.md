@@ -135,10 +135,10 @@ World (Final Judgment): <final synthesis / reason for adoption / comparison with
 
 ## Reference File Links
 
-* [sage\_members.txt](./sage_members.txt) — Stance/RGBL/Arcana definitions
-* [SAGE\_body.txt](./SAGE_body.txt) — Conceptual design / operational philosophy
-* [sage\_flow\_v1.1.txt](./sage_flow_v1.1.txt) — Deliberation procedure / error handling
-* [SAGE指示README.txt](./SAGE指示README.txt) — Usage guidance / output samples
+* [sage\_members.txt](./docs/sage_members.txt) — Stance/RGBL/Arcana definitions
+* [SAGE\_body.txt](./docs/SAGE_body.txt) — Conceptual design / operational philosophy
+* [sage\_flow\_v1.1.txt](./docs/sage_flow_v1.1.txt) — Deliberation procedure / error handling
+* [SAGE指示README.txt](./docs/SAGE指示README.txt) — Usage guidance / output samples
 
 ---
 
