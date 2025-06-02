@@ -2,7 +2,9 @@ SAGE_vARC — Structured Deliberation Framework (Arcana Edition, Cross-Chamber J
 Author: edow
 Version: 1.2 (2024-06)
 License: CC BY-NC-SA 4.0
-Contact: （https://github.com/edow7777 / https://note.com/wode）
+Contact: （https://github.com/edow7777 / https://note.com/wode ）
+DEMO:
+https://chatgpt.com/g/g-68334da8e2788191b80015b22b9b9c84-sagevarc1-1
 日本語版は英文の下にあります。
 
 Overview
@@ -73,6 +75,8 @@ SAGE_vARC — 構造化合議フレームワーク（アルカナ拡張・クロ
 ライセンス: CC BY-NC-SA 4.0
 連絡先: （ご自身のGitHub/Note/連絡先等）
 
+デモ版：
+https://chatgpt.com/g/g-68334da8e2788191b80015b22b9b9c84-sagevarc1-1
 概要
 SAGE_vARCは、AIおよび人間の意思決定のための多層熟議プロトコルであり、全審理過程の透明化・記録性・交差判定（クロスジャッジ）を徹底した先進的な設計です。
 本モデルでは、各合議段階の判定（可決/否決）は必ず“次の院の議長”が担う構造となっており、客観性・説明責任が最大限に担保されます。
