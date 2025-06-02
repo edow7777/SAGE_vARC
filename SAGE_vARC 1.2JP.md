@@ -135,10 +135,10 @@ SAGE\_vARCは、**熟議型AI議会**（多スタンス多層審理＋履歴証�
 
 ## 参考ファイルリンク
 
-* [sage\_members.txt](./sage_members.txt) — スタンス／RGBL／アルカナ定義
-* [SAGE\_body.txt](./SAGE_body.txt) — 概念設計・運用思想
-* [sage\_flow\_v1.1.txt](./sage_flow_v1.1.txt) — 審理進行・エラー管理
-* [SAGE指示README.txt](./SAGE指示README.txt) — 運用ガイド・出力例
+* [sage\_members.txt](./docs/sage_members.txt) — スタンス／RGBL／アルカナ定義
+* [SAGE\_body.txt](./docs/SAGE_body.txt) — 概念設計・運用思想
+* [sage\_flow\_v1.1.txt](./docs/sage_flow_v1.1.txt) — 審理進行・エラー管理
+* [SAGE指示README.txt](./docsSAGE指示README.txt) — 運用ガイド・出力例
 
 ---
 
